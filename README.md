@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Samagra Gune: AI agents, LLMs, autonomous systems" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0a1f44,50:0b5ed7,100:00b4ff&text=Samagra%20Gune&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Agents%20%E2%80%A2%20LLMs%20%E2%80%A2%20Autonomous%20Systems&descAlignY=58&descSize=18" alt="Samagra Gune" width="100%"/>
 
 <a href="https://github.com/samagragune">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=FF2FD0&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Samagra+%F0%9F%91%8B;I'm+obsessed+with+AI+agents+%F0%9F%A4%96;Agents+that+plan%2C+use+tools+and+act+on+their+own;LLMs+%E2%80%A2+multimodal+models+%E2%80%A2+robotics" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Samagra+%F0%9F%91%8B;I'm+obsessed+with+AI+agents+%F0%9F%A4%96;Agents+that+plan%2C+use+tools+and+act+on+their+own;LLMs+%E2%80%A2+multimodal+models+%E2%80%A2+robotics" alt="Typing intro" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samagragune/)
 [![X](https://img.shields.io/badge/@gunesamagra-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gunesamagra)
-[![Followers](https://img.shields.io/github/followers/samagragune?style=for-the-badge&logo=github&label=Followers&color=ff2fd0&labelColor=1a0b2e)](https://github.com/samagragune?tab=followers)
-<img src="https://komarev.com/ghpvc/?username=samagragune&label=Profile%20views&color=8b5cff&style=for-the-badge" alt="Profile views"/>
+[![Followers](https://img.shields.io/github/followers/samagragune?style=for-the-badge&logo=github&label=Followers&color=1e90ff&labelColor=0a1f44)](https://github.com/samagragune?tab=followers)
+<img src="https://komarev.com/ghpvc/?username=samagragune&label=Profile%20views&color=0b5ed7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -67,9 +67,9 @@ Terminal-native agents that search, read papers, crunch data, and come back with
 
 | | Project | What it is |
 |:-:|---|---|
-| 🛡️ | **[klaw](https://github.com/samagragune/klaw)** | A control plane that watches AI agents and can pause, cancel or block them mid-run ![](https://img.shields.io/github/last-commit/samagragune/klaw?style=flat-square&label=updated&color=ff2fd0&labelColor=1a0b2e) |
-| 🔎 | **[Fynder](https://github.com/samagragune/Fynder-)** | A deep-research AI agent that lives in your terminal and cites its sources ![](https://img.shields.io/github/stars/samagragune/Fynder-?style=flat-square&label=%E2%98%85&color=8b5cff&labelColor=1a0b2e) |
-| 🦾 | **[Robotic arm autonomy](https://github.com/samagragune/Project_Exhibition-Team155-)** | Vision-language reasoning plus 3D depth perception for low-cost robotic arms ![](https://img.shields.io/github/languages/top/samagragune/Project_Exhibition-Team155-?style=flat-square&color=00c2d1&labelColor=1a0b2e) |
+| 🛡️ | **[klaw](https://github.com/samagragune/klaw)** | A control plane that watches AI agents and can pause, cancel or block them mid-run ![](https://img.shields.io/github/last-commit/samagragune/klaw?style=flat-square&label=updated&color=1e90ff&labelColor=0a1f44) |
+| 🔎 | **[Fynder](https://github.com/samagragune/Fynder-)** | A deep-research AI agent that lives in your terminal and cites its sources ![](https://img.shields.io/github/stars/samagragune/Fynder-?style=flat-square&label=%E2%98%85&color=0b5ed7&labelColor=0a1f44) |
+| 🦾 | **[Robotic arm autonomy](https://github.com/samagragune/Project_Exhibition-Team155-)** | Vision-language reasoning plus 3D depth perception for low-cost robotic arms ![](https://img.shields.io/github/languages/top/samagragune/Project_Exhibition-Team155-?style=flat-square&color=00b4ff&labelColor=0a1f44) |
 
 ## 🛠️ My toolkit
 
@@ -98,5 +98,5 @@ Terminal-native agents that search, read papers, crunch data, and come back with
 > DMs are open on [X](https://x.com/gunesamagra) and [LinkedIn](https://www.linkedin.com/in/samagragune/). Always up for collabs.
 
 <div align="center">
-<img src="./assets/footer.svg" alt="Thanks for dropping by" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00b4ff,50:0b5ed7,100:0a1f44&animation=twinkling" alt="" width="100%"/>
 </div>
